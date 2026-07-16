@@ -50,15 +50,5 @@
 
 ## Статистика
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=antonborisov571&show_icons=true&theme=github_dark&hide_border=true&locale=ru&rank_icon=github">
-  <img alt="Статистика GitHub" src="https://github-readme-stats.vercel.app/api?username=antonborisov571&show_icons=true&hide_border=true&locale=ru&rank_icon=github">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=antonborisov571&layout=compact&theme=github_dark&hide_border=true&locale=ru&langs_count=8">
-  <img alt="Языки" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonborisov571&layout=compact&hide_border=true&locale=ru&langs_count=8">
-</picture>
+<img alt="Метрики GitHub" src="github-metrics.svg" width="100%">
 
-## Связь
-
-[![Gmail](https://img.shields.io/badge/huskischlender@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huskischlender@gmail.com)
