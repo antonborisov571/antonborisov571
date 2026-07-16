@@ -48,7 +48,4 @@
 | **[eventual](https://github.com/antonborisov571/eventual)** | Event sourcing библиотека, выросшая из orderflow: агрегаты, снапшоты, Postgres event store, транзакционный outbox, бенчмарки | .NET 10 |
 | **[mksvc](https://github.com/antonborisov571/mksvc)** | CLI-скаффолдер микросервисов: шаблоны Go/.NET/Node/compose/CI, dry-run, тесты собирают сгенерированные проекты | Go |
 
-## Статистика
-
-<img alt="Метрики GitHub" src="github-metrics.svg" width="100%">
 
